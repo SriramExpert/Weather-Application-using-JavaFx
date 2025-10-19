@@ -105,7 +105,8 @@ java -jar target/Weather_Application-1.0-SNAPSHOT.jar
 
 ```
 
-🖼️ Screenshots
+### 🖼️ Screenshots
+<img width="1492" height="910" alt="Image" src="https://github.com/user-attachments/assets/6b7d7873-cca2-4e00-830f-0b9c82e690a9" />
 
 ### 📚 How It Works
 1. User enters a city name in the text field.
