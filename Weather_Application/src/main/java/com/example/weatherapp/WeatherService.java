@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 import org.json.JSONObject;
 
 public class WeatherService {
-    private static final String API_KEY = "ccbd95639257f3acdf4438d33ca0bcfb"; // Replace with your OpenWeatherMap key
+    private static final String API_KEY = "Your_API_key"; // Replace with your OpenWeatherMap key
     private static final String BASE_URL =
             "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
